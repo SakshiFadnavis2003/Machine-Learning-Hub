@@ -27,3 +27,9 @@ Open any of the Jupyter notebooks and run the cells to see the preprocessing, ED
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or inquiries, feel free to reach out to me at fadnavissakshi@gmail.com.
